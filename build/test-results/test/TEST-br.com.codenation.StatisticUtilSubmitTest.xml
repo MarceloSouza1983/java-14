@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.codenation.StatisticUtilSubmitTest" tests="21" skipped="0" failures="0" errors="0" timestamp="2020-05-03T16:14:55" hostname="marcelodell3583" time="0.009">
+  <properties/>
+  <testcase name="testModeWithOnly1Number" classname="br.com.codenation.StatisticUtilSubmitTest" time="0.004"/>
+  <testcase name="testMedianWithOddUnorderedArray" classname="br.com.codenation.StatisticUtilSubmitTest" time="0.0"/>
+  <testcase name="testMedianWithEvenArrayUnOrderedAndNegativeNumbers" classname="br.com.codenation.StatisticUtilSubmitTest" time="0.0"/>
+  <testcase name="testAverage1Element" classname="br.com.codenation.StatisticUtilSubmitTest" time="0.0"/>
+  <testcase name="testMode" classname="br.com.codenation.StatisticUtilSubmitTest" time="0.0"/>
+  <testcase name="testAverage" classname="br.com.codenation.StatisticUtilSubmitTest" time="0.0"/>
+  <testcase name="testModeWithModeInArrayMiddle" classname="br.com.codenation.StatisticUtilSubmitTest" time="0.001"/>
+  <testcase name="testAverageUnorderedArray" classname="br.com.codenation.StatisticUtilSubmitTest" time="0.0"/>
+  <testcase name="testMedianWithOddUnorderedNegativeArray" classname="br.com.codenation.StatisticUtilSubmitTest" time="0.0"/>
+  <testcase name="testModeWithNegativeMode" classname="br.com.codenation.StatisticUtilSubmitTest" time="0.0"/>
+  <testcase name="testAverageWithNegativeNumbers" classname="br.com.codenation.StatisticUtilSubmitTest" time="0.001"/>
+  <testcase name="testMedianWithEvenArrayUnOrderedAndNegativeAndPositiveNumbers" classname="br.com.codenation.StatisticUtilSubmitTest" time="0.0"/>
+  <testcase name="testAverage2Elements" classname="br.com.codenation.StatisticUtilSubmitTest" time="0.0"/>
+  <testcase name="testModeWithModeInArrayEnd" classname="br.com.codenation.StatisticUtilSubmitTest" time="0.0"/>
+  <testcase name="testMedianWithOddArray" classname="br.com.codenation.StatisticUtilSubmitTest" time="0.0"/>
+  <testcase name="testMedianWithEvenArray" classname="br.com.codenation.StatisticUtilSubmitTest" time="0.0"/>
+  <testcase name="testMedianWithOddArrayUnOrderedAndNegativeAndPositiveNumbers" classname="br.com.codenation.StatisticUtilSubmitTest" time="0.0"/>
+  <testcase name="testAverageWithNegativeAndPositiveNumbers" classname="br.com.codenation.StatisticUtilSubmitTest" time="0.0"/>
+  <testcase name="testMedianWithEvenArrayUnOrdered" classname="br.com.codenation.StatisticUtilSubmitTest" time="0.0"/>
+  <testcase name="testModeWithModeInArrayBegin" classname="br.com.codenation.StatisticUtilSubmitTest" time="0.0"/>
+  <testcase name="testAverage2000Elements" classname="br.com.codenation.StatisticUtilSubmitTest" time="0.0"/>
+  <system-out><![CDATA[
+Número: 0 apareceu 5 vezes.
+
+A mediana é: 3
+A mediana é: -3
+A média é: 10
+
+Número: 3 apareceu 2 vezes.
+
+A média é: 3
+
+Número: 0 apareceu 8 vezes.
+
+A média é: 494
+A mediana é: -3
+
+Número: -1 apareceu 11 vezes.
+
+A média é: -15
+A mediana é: 0
+A média é: 10
+
+Número: 2 apareceu 15 vezes.
+
+A mediana é: 3
+A mediana é: 3
+A mediana é: 0
+A média é: 1
+A mediana é: 3
+
+Número: 0 apareceu 5 vezes.
+
+A média é: 10000
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
